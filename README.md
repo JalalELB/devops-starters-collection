@@ -17,11 +17,11 @@ Each pack includes:
 
 | # | Stack | Description | Gumroad |
 |:-:|:------|:-------------|:--------|
-| 1️⃣ | **Java + Angular + Keycloak + Monitoring** | Enterprise-ready pack with authentication & dashboards. | [Get it →](https://jalalelb.gumroad.com/l/full-devops-pack) |
+| 1️⃣ | **Java + Angular + Keycloak + Monitoring** | Enterprise-ready pack with authentication & dashboards. | [Get it →](https://jalalelb.gumroad.com/l/full-devops-java-angular) |
 | 2️⃣ | **Rust (Axum) + Svelte + PostgreSQL (CI/CD Ready)** | Ultra-fast, type-safe stack for modern apps. | [Get it →](https://jalalelb.gumroad.com/l/rust-axum-svelte-postgre) |
 | 3️⃣ | **Node.js + Next.js + MongoDB (CI/CD Ready)** | Full JavaScript DevOps boilerplate for web apps. | [Get it →](https://jalalelb.gumroad.com/l/node-next-mongo) |
 | 4️⃣ | **Elixir (Phoenix) + Svelte + PostgreSQL (CI/CD Ready)** | Real-time and scalable stack for high-performance apps. | [Get it →](https://jalalelb.gumroad.com/l/elixir-phoenix-svelte) |
-| 5️⃣ | **.NET + React + PostgreSQL (CI/CD Ready)** | Enterprise-grade setup for C# developers. | [Get it →](https://jalalelb.gumroad.com/l/dotnet-react-devops) |
+| 5️⃣ | **.NET + React + PostgreSQL (CI/CD Ready)** | Enterprise-grade setup for C# developers. | [Get it →](https://jalalelb.gumroad.com/l/dotnet-react-postgresql) |
 
 ---
 
