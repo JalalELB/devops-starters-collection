@@ -44,8 +44,9 @@ Each pack includes:
 ## 📈 Example Architecture
 
 frontend ──► backend ──► database
-     │              │
+     │          │
      └──► monitoring (Prometheus + Grafana)
+     
      
 
 
