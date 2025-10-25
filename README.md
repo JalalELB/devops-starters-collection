@@ -68,15 +68,15 @@ frontend ──► backend ──► database
 ## 🧱 Folder Structure (Inside Each Pack)
 
 apps/
-  backend/      → main API project
-  frontend/     → web app
+     backend/      → main API project
+     frontend/     → web app
 
 infra/
-  docker/       → docker-compose.yml + .env
-  monitoring/   → Prometheus + Grafana dashboards
+     docker/       → docker-compose.yml + .env
+     monitoring/   → Prometheus + Grafana dashboards
 
 .github/
-  workflows/    → CI/CD pipeline
+     workflows/    → CI/CD pipeline
 
 
 
