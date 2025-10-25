@@ -44,8 +44,8 @@ Each pack includes:
 ## 📈 Example Architecture
 
 frontend ──► backend ──► database
-│ │
-└──► monitoring (Prometheus + Grafana)
+     │              │
+     └──► monitoring (Prometheus + Grafana)
 
 
 ---
@@ -66,13 +66,16 @@ frontend ──► backend ──► database
 ## 🧱 Folder Structure (Inside Each Pack)
 
 apps/
-backend/ → main API project
-frontend/ → web app
+  backend/      → main API project
+  frontend/     → web app
+
 infra/
-docker/ → docker-compose.yml + .env
-monitoring/ → Prometheus + Grafana
+  docker/       → docker-compose.yml + .env
+  monitoring/   → Prometheus + Grafana dashboards
+
 .github/
-workflows/ → CI/CD pipeline
+  workflows/    → CI/CD pipeline
+
 
 
 ---
