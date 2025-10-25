@@ -41,12 +41,12 @@ Each pack includes:
 
 ---
 
-## 📈 Example Architecture
-
+## 📊 Example Architecture
+```text
 frontend ──► backend ──► database
      │              │
      └──► monitoring (Prometheus + Grafana)
-
+```
 
 ---
 
@@ -64,7 +64,7 @@ frontend ──► backend ──► database
 ---
 
 ## 🧱 Folder Structure (Inside Each Pack)
-
+```text
 apps/
   backend/      → main API project
   frontend/     → web app
@@ -75,7 +75,7 @@ infra/
 
 .github/
   workflows/    → CI/CD pipeline
-
+```
 
 ---
 
@@ -87,7 +87,7 @@ infra/
 ## 🧑‍💻 About the Author
 **Jalal El Boumeshouli**  
 Tech Lead · Full-Stack & DevOps Engineer · Creator of DevOps Starters  
-💼 [LinkedIn](https://www.linkedin.com/in/jalal-elboumeshouli)  
+💼 [LinkedIn](https://www.linkedin.com/in/jalalelb)  
 🌐 [Gumroad Store](https://jalalelb.gumroad.com)
 
 ---
