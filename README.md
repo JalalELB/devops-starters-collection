@@ -87,7 +87,7 @@ infra/
 ## 🧑‍💻 About the Author
 **Jalal El Boumeshouli**  
 Tech Lead · Full-Stack & DevOps Engineer · Creator of DevOps Starters  
-💼 [LinkedIn](https://www.linkedin.com/in/jalalelb)  
+💼 [LinkedIn](https://www.linkedin.com/company/logntic)
 🌐 [Gumroad Store](https://jalalelb.gumroad.com)
 
 ---
