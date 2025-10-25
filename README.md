@@ -46,6 +46,7 @@ Each pack includes:
 frontend ──► backend ──► database
      │              │
      └──► monitoring (Prometheus + Grafana)
+     
 
 
 ---
