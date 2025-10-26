@@ -1,3 +1,12 @@
+<p align="center">
+  <img src="devops-starters-collection.png" alt="DevOps Starters Collection — by Jalal El Boumeshouli" width="100%" />
+</p>
+
+<p align="center">
+  <em>Production-ready CI/CD packs for modern stacks — Java, Rust, Node.js, Python, Go, .NET, and more.</em>
+</p>
+
+
 # 🚀 DevOps Starters — by Jalal El Boumeshouli
 
 A curated collection of **production-ready full-stack DevOps Starter Packs**, built for developers who want to **start coding, ship fast, and deploy with confidence.**
