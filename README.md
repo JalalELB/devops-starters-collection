@@ -6,6 +6,19 @@
   <em>Production-ready CI/CD packs for modern stacks — Java, Rust, Node.js, Python, Go, .NET, and more.</em>
 </p>
 
+<p align="center">
+  <a href="https://github.com/topics/devops"><img src="https://img.shields.io/badge/DevOps-Ready-blue?style=flat-square&logo=githubactions" alt="DevOps Ready"></a>
+  <a href="https://github.com/topics/docker"><img src="https://img.shields.io/badge/Docker-Compose-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker Compose"></a>
+  <a href="https://github.com/topics/cicd"><img src="https://img.shields.io/badge/CI%2FCD-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="CI/CD GitHub Actions"></a>
+  <a href="https://github.com/topics/grafana"><img src="https://img.shields.io/badge/Monitoring-Grafana-orange?style=flat-square&logo=grafana&logoColor=white" alt="Monitoring Grafana"></a>
+  <a href="https://github.com/topics/prometheus"><img src="https://img.shields.io/badge/Monitoring-Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white" alt="Prometheus"></a>
+  <a href="https://github.com/topics/fullstack"><img src="https://img.shields.io/badge/Full--Stack-Templates-brightgreen?style=flat-square&logo=visualstudiocode" alt="Full-Stack Templates"></a>
+</p>
+
+<p align="center">
+  <em>#DevOps #FullStack #Docker #CICD #Monitoring #Grafana #Prometheus #SpringBoot #Angular #NextJS #Rust #Svelte #Go #DotNet #Python</em>
+</p>
+
 
 # 🚀 DevOps Starters — by Jalal El Boumeshouli
 
